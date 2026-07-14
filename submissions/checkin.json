@@ -1,6 +1,10 @@
 {
   "student_name": "Kamesh",
+<<<<<<< HEAD
   "github": "kamesh7-web",
+=======
+  "github": "KAMESH-ai",
+>>>>>>> 0f8a97e64c07b6638f48f410c020c85599330a00
   "team": "TBD",
   "status": "ready"
 }
