@@ -4,11 +4,7 @@
   "github": "KAMESH-ai",
   "lab2_team": "Team Alpha",
   "lab2_model_used": "SmolLM2-360M-Instruct",
-<<<<<<< HEAD
-  "lab2_gradio_url": "https://chatgpt.com/",
-=======
   "lab2_gradio_url": "https://xxxx.gradio.live",
->>>>>>> 15f440020e4d9e68ab532d2f9c335275180e2389
   "h1_classification": "hallucination",
   "h1_models_flagged": ["ChatGPT (GPT-4o)", "Gemini 1.5 Pro"],
   "h1_evidence": "ChatGPT claimed that Circle to Search is powered by Google's Gemini Pro and Imagen 2, Note Assist uses Gemini Pro, Generative Edit is powered by Google's Imagen 2 on Vertex AI, and Transcript Assist summarization uses Gemini Pro. Samsung's official Galaxy S24 launch materials confirm the features and their functionality, but do not identify Gemini Pro, Imagen 2, or Vertex AI as underlying models. Gemini also hallucinated by attributing Galaxy AI features to Gemini Nano, Gemini Pro, Imagen 2, and Vertex AI. The only officially confirmed hardware enabling on-device Galaxy AI is Snapdragon 8 Gen 3 for Galaxy or Exynos 2400 with integrated NPUs.",
@@ -26,8 +22,4 @@
   "tasks_completed": 5,
   "tasks_total": 5,
   "submitted_at": "2026-07-14T09:58:00.000Z"
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 15f440020e4d9e68ab532d2f9c335275180e2389
