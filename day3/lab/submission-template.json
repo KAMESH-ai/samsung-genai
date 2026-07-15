@@ -1,13 +1,13 @@
 {
   "day": 3,
-  "student_name": "Your Full Name",
-  "github": "your-github-username",
+  "student_name": "Kamesh",
+  "github": "KAMESH-ai",
 
   "ir_hallucination_done": true,
   "ir_bias_done": true,
   "ir_guardrail_builder_done": true,
   "ir_battle_complete": true,
-  "ir_battle_blocked": 6,
+  "ir_battle_blocked": 8,
   "ir_battle_total": 8,
 
   "rag_scenario": "A",
@@ -20,5 +20,5 @@
 
   "tasks_completed": 6,
   "tasks_total": 6,
-  "submitted_at": ""
+  "submitted_at": "2026-07-15"
 }
