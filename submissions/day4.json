@@ -35,12 +35,12 @@
     },
     {
       "id": "F",
-      "failure_type": "",
-      "principle": "",
-      "justification": ""
+      "failure_type": "Bias/Discrimination",
+      "principle": "Accountability",
+      "justification": "Amazon's AI hiring tool unfairly down-ranked resumes from women and women's colleges, showing a lack of accountability in monitoring and preventing discriminatory outcomes."
     }
   ],
-  "justifications_written": 5,
+  "justifications_written": 6,
   "stretch_done": true,
   "stretch_company": "amzn",
   "stretch_failure_type": "Bias/Discrimination",
@@ -48,5 +48,5 @@
   "stretch_notes": "An AI-powered hiring tool was found to systematically disadvantage women by down-ranking resumes that contained indicators such as attendance at women's colleges. Although the bias was unintended, the company was responsible for ensuring the system was fair, regularly audited, and did not produce discriminatory outcomes.",
   "tasks_completed": 6,
   "tasks_total": 6,
-  "submitted_at": "2026-07-16T06:23:28.338Z"
+  "submitted_at": "2026-07-16T06:26:00.066Z"
 }
