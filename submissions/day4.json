@@ -41,12 +41,12 @@
     }
   ],
   "justifications_written": 5,
-  "stretch_done": false,
-  "stretch_company": "",
-  "stretch_failure_type": "",
-  "stretch_principle": "",
-  "stretch_notes": "",
-  "tasks_completed": 5,
+  "stretch_done": true,
+  "stretch_company": "amzn",
+  "stretch_failure_type": "Bias/Discrimination",
+  "stretch_principle": "Accountability",
+  "stretch_notes": "An AI-powered hiring tool was found to systematically disadvantage women by down-ranking resumes that contained indicators such as attendance at women's colleges. Although the bias was unintended, the company was responsible for ensuring the system was fair, regularly audited, and did not produce discriminatory outcomes.",
+  "tasks_completed": 6,
   "tasks_total": 6,
-  "submitted_at": "2026-07-16T06:15:52.786Z"
+  "submitted_at": "2026-07-16T06:23:28.338Z"
 }
